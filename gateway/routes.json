@@ -1,7 +1,7 @@
 { 
 
-"serviceA": "http://localhost:3001", 
-"serviceB": "http://localhost:3002", 
-"serviceC": "http://localhost:3002"
+"serviceA": "http://10.163.135.26:3001", 
+"serviceB": "http://10.163.135.26:3002", 
+"serviceC": "http://10.163.135.26:3003"
 
 }
